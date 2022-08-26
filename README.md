@@ -1,3 +1,6 @@
+weather app that shows current temperature of the searched location (takes data from openweatherMap api )and displays image of that place from Unsplash Api
+used fetch api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://medium.com/sonny-sangha/how-to-make-a-weather-app-with-react-js-47f2a9eaf054
