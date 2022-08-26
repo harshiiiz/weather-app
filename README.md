@@ -1,3 +1,5 @@
+weather app that shows current temperature of the searched location (takes data from openweatherMap api )and displays image of that place from Unsplash Api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
