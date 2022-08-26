@@ -1,4 +1,5 @@
 weather app that shows current temperature of the searched location (takes data from openweatherMap api )and displays image of that place from Unsplash Api
+used fetch api
 
 # Getting Started with Create React App
 
